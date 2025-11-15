@@ -106,6 +106,7 @@ P3
 51 76 128
 51 76 128
 ```
+The repeating red pixels represent the sphere.
 <img width="400" height="300" alt="raytracer_sample" src="https://github.com/user-attachments/assets/68b1e6e4-7b51-414f-9726-d330d65e7c25" />
 
 
